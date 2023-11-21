@@ -11,7 +11,8 @@ Console.WriteLine(Ages);
 Console.WriteLine(Amount);
 
 //Entrada de Dados
-int Age = int.Parse(Console.ReadLine());
+// O erro do warn acontece pois elel não tem a certeza se a pessoa passará o valor no input
+int? Age = int.Parse(Console.ReadLine());
 decimal Average = decimal.Parse(Console.ReadLine());
 bool Permission = bool.Parse(Console.ReadLine());
 string Name = Console.ReadLine();

@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/bin/Debug/net6.0/dia2
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/bin/Debug/net6.0/dia2.deps.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/bin/Debug/net6.0/dia2.runtimeconfig.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/bin/Debug/net6.0/dia2.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/bin/Debug/net6.0/ref/dia2.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/bin/Debug/net6.0/dia2.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.AssemblyInfo.cs
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/ref/dia2.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/obj/Debug/net6.0/dia2.genruntimeconfig.cache

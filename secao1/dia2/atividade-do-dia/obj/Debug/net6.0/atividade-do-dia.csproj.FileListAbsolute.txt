@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.AssemblyInfo.cs
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/bin/Debug/net6.0/atividade-do-dia
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/bin/Debug/net6.0/atividade-do-dia.deps.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/bin/Debug/net6.0/atividade-do-dia.runtimeconfig.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/bin/Debug/net6.0/atividade-do-dia.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/bin/Debug/net6.0/ref/atividade-do-dia.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/bin/Debug/net6.0/atividade-do-dia.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/ref/atividade-do-dia.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/atividade-do-dia/obj/Debug/net6.0/atividade-do-dia.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "atividade-do-dia/1.0.0": {
+        "runtime": {
+          "atividade-do-dia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade-do-dia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.AssemblyInfo.cs
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/bin/Debug/net6.0/if-else
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/bin/Debug/net6.0/if-else.deps.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/bin/Debug/net6.0/if-else.runtimeconfig.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/bin/Debug/net6.0/if-else.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/bin/Debug/net6.0/ref/if-else.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/bin/Debug/net6.0/if-else.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/ref/if-else.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia2/if-else/obj/Debug/net6.0/if-else.genruntimeconfig.cache
