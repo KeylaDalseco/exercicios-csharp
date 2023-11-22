@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/bin/Debug/net6.0/array
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/bin/Debug/net6.0/array.deps.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/bin/Debug/net6.0/array.runtimeconfig.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/bin/Debug/net6.0/array.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/bin/Debug/net6.0/ref/array.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/bin/Debug/net6.0/array.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.AssemblyInfo.cs
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/ref/array.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia3/array/obj/Debug/net6.0/array.genruntimeconfig.cache
