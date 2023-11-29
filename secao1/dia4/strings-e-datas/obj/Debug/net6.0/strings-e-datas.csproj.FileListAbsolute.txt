@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/bin/Debug/net6.0/strings-e-datas
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/bin/Debug/net6.0/strings-e-datas.deps.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/bin/Debug/net6.0/strings-e-datas.runtimeconfig.json
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/bin/Debug/net6.0/strings-e-datas.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/bin/Debug/net6.0/ref/strings-e-datas.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/bin/Debug/net6.0/strings-e-datas.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.AssemblyInfo.cs
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/ref/strings-e-datas.dll
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.pdb
+/home/keyla/Área de trabalho/exercicios-csharp/secao1/dia4/strings-e-datas/obj/Debug/net6.0/strings-e-datas.genruntimeconfig.cache

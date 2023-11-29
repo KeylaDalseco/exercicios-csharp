@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/movie/bin/Debug/net6.0/movie
+/home/keyla/Área de trabalho/movie/bin/Debug/net6.0/movie.deps.json
+/home/keyla/Área de trabalho/movie/bin/Debug/net6.0/movie.runtimeconfig.json
+/home/keyla/Área de trabalho/movie/bin/Debug/net6.0/movie.dll
+/home/keyla/Área de trabalho/movie/bin/Debug/net6.0/ref/movie.dll
+/home/keyla/Área de trabalho/movie/bin/Debug/net6.0/movie.pdb
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.AssemblyInfo.cs
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.dll
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/ref/movie.dll
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.pdb
+/home/keyla/Área de trabalho/movie/obj/Debug/net6.0/movie.genruntimeconfig.cache
