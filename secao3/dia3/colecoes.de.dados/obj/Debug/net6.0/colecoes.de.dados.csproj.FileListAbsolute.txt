@@ -1,0 +1,15 @@
+/home/keyla/Área de trabalho/colecoes.de.dados/bin/Debug/net6.0/colecoes.de.dados
+/home/keyla/Área de trabalho/colecoes.de.dados/bin/Debug/net6.0/colecoes.de.dados.deps.json
+/home/keyla/Área de trabalho/colecoes.de.dados/bin/Debug/net6.0/colecoes.de.dados.runtimeconfig.json
+/home/keyla/Área de trabalho/colecoes.de.dados/bin/Debug/net6.0/colecoes.de.dados.dll
+/home/keyla/Área de trabalho/colecoes.de.dados/bin/Debug/net6.0/ref/colecoes.de.dados.dll
+/home/keyla/Área de trabalho/colecoes.de.dados/bin/Debug/net6.0/colecoes.de.dados.pdb
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.csproj.AssemblyReference.cache
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.AssemblyInfoInputs.cache
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.AssemblyInfo.cs
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.csproj.CoreCompileInputs.cache
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.dll
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/ref/colecoes.de.dados.dll
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.pdb
+/home/keyla/Área de trabalho/colecoes.de.dados/obj/Debug/net6.0/colecoes.de.dados.genruntimeconfig.cache
